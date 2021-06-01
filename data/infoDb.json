@@ -1,0 +1,244 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "year": "2009",
+      "number": "090234",
+      "title": "2010 Santa Monica Water Main Replacement",
+      "agency": "City of Santa Monica",
+      "length": "13303",
+      "fee": "380000",
+      "firm": "Brockmier"
+    },
+    {
+      "id": "2",
+      "year": "2013",
+      "number": "131027",
+      "title": "2014 Santa Monica Water Main Replacement",
+      "agency": "City of Santa Monica",
+      "length": "9475",
+      "fee": "242643",
+      "firm": "Cannon"
+    },
+    {
+      "id": "3",
+      "year": "2013",
+      "number": "130109",
+      "title": "2013 Beverly Hills Water Main Replacement",
+      "agency": "City of Beverly Hills",
+      "length": "22130",
+      "fee": "275180",
+      "firm": "Cannon"
+    },
+    {
+      "id": "4",
+      "year": "2013",
+      "number": "130108",
+      "title": "2013-2014 Manhattan Beach Water Main Replacement",
+      "agency": "City of Manhattan Beach",
+      "length": "10090",
+      "fee": "107718",
+      "firm": "Cannon"
+    },
+    {
+      "id": "5",
+      "year": "2014",
+      "number": "140723",
+      "title": "Agnes Pipeline",
+      "agency": "Park Water",
+      "length": "9370",
+      "fee": "33780",
+      "firm": "Cannon"
+    },
+    {
+      "id": "6",
+      "year": "2014",
+      "number": "140724",
+      "title": "Stoneacre Pipeline",
+      "agency": "Park Water",
+      "length": "5410",
+      "fee": "26100",
+      "firm": "Cannon"
+    },
+    {
+      "id": "7",
+      "year": "2014",
+      "number": "140433",
+      "title": "Rincon Pipeline",
+      "agency": "Apple Valley Rancho",
+      "length": "2700",
+      "fee": "32580",
+      "firm": "Cannon"
+    },
+    {
+      "id": "8",
+      "year": "2014",
+      "number": "140432",
+      "title": "Mondoman Pipeline",
+      "agency": "Apple Valley Rancho",
+      "length": "3752",
+      "fee": "34980",
+      "firm": "Cannon"
+    },
+    {
+      "id": "9",
+      "year": "2014",
+      "number": "140432",
+      "title": "Mondoman & Rincon Pipeline",
+      "agency": "Apple Valley Rancho",
+      "length": "6452",
+      "fee": "57080",
+      "firm": "Cannon"
+    },
+    {
+      "id": "10",
+      "year": "2014",
+      "number": "141104",
+      "title": "2014 City of Norwalk Distribution Mains",
+      "agency": "City of Norwalk",
+      "length": "7700",
+      "fee": "100030",
+      "firm": "Cannon"
+    },
+    {
+      "id": "11",
+      "year": "2014",
+      "number": "141235",
+      "title": "Westmon Main Replacement",
+      "agency": "City of Alhambra",
+      "length": "3500",
+      "fee": "79070",
+      "firm": "Cannon"
+    },
+    {
+      "id": "12",
+      "year": "2015",
+      "number": "150118",
+      "title": "Hawthorne Main Replacement",
+      "agency": "City of Torrance",
+      "length": "7000",
+      "fee": "184009",
+      "firm": "Cannon"
+    },
+    {
+      "id": "13",
+      "year": "2015",
+      "number": "151024",
+      "title": "130th Street Main Replacement",
+      "agency": "Golden State Water Company",
+      "length": "19150",
+      "fee": "199474",
+      "firm": "Cannon"
+    },
+    {
+      "id": "14",
+      "year": "2015",
+      "number": "151024",
+      "title": "112th Street Main Replacement",
+      "agency": "Golden State Water Company",
+      "length": "19500",
+      "fee": "189708",
+      "firm": "Cannon"
+    },
+    {
+      "id": "15",
+      "year": "2016",
+      "number": "160418",
+      "title": "EPA Water Main Replacement",
+      "agency": "City of Santa Monica",
+      "length": "3800",
+      "fee": "73005",
+      "firm": "Cannon"
+    },
+    {
+      "id": "16",
+      "year": "2016",
+      "number": "160933",
+      "title": "Jed Smith Pipeline Replacement",
+      "agency": "Las Virgenes Municipal Water District",
+      "length": "2920",
+      "fee": "57725",
+      "firm": "Cannon"
+    },
+    {
+      "id": "17",
+      "year": "2017",
+      "number": "170314",
+      "title": "Calleguas Interconnection",
+      "agency": "Las Virgenes Municipal Water District",
+      "length": "4800",
+      "fee": "219742",
+      "firm": "Cannon"
+    },
+    {
+      "id": "18",
+      "year": "2009",
+      "number": "091216",
+      "title": "Longfellow Street Main Replacement",
+      "agency": "City of Santa Monica",
+      "length": "860",
+      "fee": "27873",
+      "firm": "Cannon"
+    },
+    {
+      "id": "19",
+      "year": "2013",
+      "number": "131033",
+      "title": "Monterey Street Main Replacement",
+      "agency": "City of San Luis Obispo",
+      "length": "1025",
+      "fee": "33560",
+      "firm": "Cannon"
+    },
+    {
+      "id": "20",
+      "year": "2009",
+      "number": "090807",
+      "title": "Busch & Merritt Drive Mains",
+      "agency": "SMMUSD",
+      "length": "1900",
+      "fee": "57700",
+      "firm": "Cannon"
+    },
+    {
+      "id": "21",
+      "year": "2009",
+      "number": "090142",
+      "title": "Avenue K - Phase II",
+      "agency": "Los Angeles County",
+      "length": "7883",
+      "fee": "188745",
+      "firm": "Brockmier"
+    },
+    {
+      "id": "22",
+      "year": "2009",
+      "number": "090142",
+      "title": "Avenue K - Phase III",
+      "agency": "Los Angeles County",
+      "length": "10820",
+      "fee": "229325",
+      "firm": "Brockmier"
+    },
+    {
+      "id": "23",
+      "year": "2009",
+      "number": "090142",
+      "title": "Avenue K - Phase IV",
+      "agency": "Los Angeles County",
+      "length": "5361",
+      "fee": "170525",
+      "firm": "Brockmier"
+    },
+    {
+      "id": "24",
+      "year": "2015",
+      "number": "150832",
+      "title": "Ocean Ave. Main Replacement",
+      "agency": "City of Santa Monica",
+      "length": "2230",
+      "fee": "82395",
+      "firm": "Cannon"
+    }
+  ]
+}
